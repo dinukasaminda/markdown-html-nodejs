@@ -30,9 +30,9 @@ body :
 ### Photos
 
 Inline-style:
-![alt text](https://github.com/dinukasaminda/sample-md-docs/blob/master/sample.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/dinukasaminda/markdown-html-nodejs/blob/master/docs/sample.png?raw=true "Logo Title Text 1")
 
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://github.com/dinukasaminda/sample-md-docs/blob/master/sample.png?raw=true"
+[logo]: https://github.com/dinukasaminda/markdown-html-nodejs/blob/master/docs/sample.png?raw=true"
